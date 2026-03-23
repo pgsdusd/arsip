@@ -46,21 +46,21 @@ const newsData = [
     {
         title: "Prestasi Mahasiswa PGSD di Kancah Nasional",
         date: "15 Maret 2026",
-        author: "Amesah Kristin",
+        author: "humas",
         image: "https://www.vectorlogo.zone/logos/google/google-arcore.svg", // SVG
         content: "Mahasiswa semester 6 berhasil meraih juara pertama dalam lomba inovasi media pembelajaran tingkat nasional yang diselenggarakan di Jakarta baru-baru ini. Inovasi ini diharapkan dapat menjadi rujukan dalam pengajaran.\n\nMedia yang dikembangkan berbasis Augmented Reality (AR) yang memungkinkan siswa untuk berinteraksi dengan objek 3D secara langsung melalui smartphone mereka. Juri memuji kreatifitas dan kemudahan penggunaan aplikasi tersebut."
     },
     {
         title: "Kunjungan Studi Banding ke Universitas Partner",
         date: "10 Maret 2026",
-        author: "Salvator Gratio",
+        author: "humas",
         image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?fm=png&w=800&q=80", // PNG
         content: "Tim Humas dan Akademik PGSD melakukan kunjungan studi banding untuk memperkuat kerjasama antar universitas dalam pengembangan kurikulum berbasis teknologi.\n\nDiskusi hangat terjalin mengenai program pertukaran mahasiswa dan kolaborasi penelitian di bidang pendidikan dasar. Hasil dari kunjungan ini diharapkan dapat segera diimplementasikan pada tahun ajaran mendatang."
     },
     {
         title: "Malam Inagurasi Mahasiswa Baru PGSD",
         date: "05 Maret 2026",
-        author: "Angelina Wiwik",
+        author: "humas",
         image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?fm=jpeg&w=800&q=80", // JPEG
         content: "Kemeriahan malam inagurasi mahasiswa baru yang dipenuhi dengan penampilan bakat seni dan budaya dari seluruh angkatan PGSD.\n\nAcara yang bertajuk 'Harmony in Diversity' ini sukses menyatukan ratusan mahasiswa dalam satu semangat kebersamaan. Berbagai tarian daerah dan paduan suara mahasiswa menjadi puncak acara yang memukau penonton."
     }
